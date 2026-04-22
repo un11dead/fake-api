@@ -1,0 +1,43 @@
+{
+    "cursos": [
+        {
+            "id":1,
+            "nome": "Mtec-PI Desenvolvimento De Sistemas",
+            "disciplinas": ["Web III", "PAM II", "BD", "TCC"],
+            "carga-horaria": 1200
+        },
+        {
+            "id":2,
+            "nome": "Mtec-N Informática",
+            "disciplinas": [
+            "Computação em Nuvem e Mídias Sociais",
+            "Desenvolvimento de Sistemas Embarcados", 
+            "Operação e Configuração de Aplicativos",
+            "Instalação e Manutenção de Computadores"
+        ],
+            "carga-horaria": 1200
+        },
+        {
+            "id":3,
+            "nome": "Mtec-N Informática para Internet",
+            "disciplinas": [
+            "Sistemas Web I e II",
+            "Computação em Nuvem para Web I e II", 
+            "Gestão de Conteúdo Web",
+            "Interfaces Web I e II "
+            ],
+            "carga-horaria": 1200
+        },
+        {
+            "id":4,
+            "nome": "Técnico em Informática",
+            "disciplinas": [
+            "Computação em Nuvem e Mídias Sociais",
+            "Internet das Coisas", 
+            "Segurança Digital",
+            "Redes de Comunicação de Dados II"
+            ],
+            "carga-horaria": 1200
+        }
+    ]
+}
