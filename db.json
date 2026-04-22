@@ -38,6 +38,13 @@
             "Redes de Comunicação de Dados II"
             ],
             "carga-horaria": 1200
-        }
+        } 
+    ],
+
+       "professores": [
+        {"id":1, "nome": "Alicia"},
+        {"id":2, "nome": "Votto"},
+        {"id":3, "nome": "Daniel"},
+        {"id":4, "nome": "Nathane"}
     ]
 }
